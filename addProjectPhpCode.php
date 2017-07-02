@@ -21,7 +21,13 @@ $success = $conn->query($query);
 if (!$success) {
 	die("Couldn't enter data: ".$conn->error);
 }
-echo " Thank <br>";
-$conn->close();
 
+function writeMsg() {
+    include("thankyou.html");
+}
+
+writeMsg(); // call the function
+
+$conn->close();
 ?>
+

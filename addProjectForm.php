@@ -13,9 +13,9 @@
 	         </div>
 			 <p id="failure">Oopsie...message not sent.</p>  
 		      <p id="success">Your message was sent successfully. Thank you!</p>
-	         <form action="myFile.php" method="post">
+	         <form action="addProjectPhpCode.php" method="post">
 			     <div style="padding-left:200px;padding-right:200px;">
-		             <label for="prjct">
+		             <label for="prjct">rdbbsq
 		      	         <span class="required" >Project Title:*</span> 
 		      	         <input type="text" id="prjct" name="project"  placeholder="Project Title" size="50"required="required" tabindex="1" autofocus="autofocus" />
 		             </label> 
@@ -51,7 +51,7 @@
 		             <label for="prjctdes">
 		      	         <span class="required">Project Description:*</span> 
 		      	   
-		      	         <textarea type="text" name="project_des" id="prjctdes" placeholder="Please write your Project Description here." tabindex="5" rows="6" cols="45" required="required"></textarea>
+		      	         <textarea type="text" name="project_des" id="prjctdes" placeholder="Please write your Project Description here." tabindex="5" rows="6" cols="45" ></textarea>
 		             </label>  
 			     </div>
 			     <div style="padding-left:200px;padding-right:200px;">		          
@@ -85,7 +85,7 @@
 			<div style="padding-left:200px;padding-right:200px;">
 		      <label for="name">
 		      	<span class="required">Team Member 1:*</span> 
-		      	<input type="text" id="tm1" name="tm1"  placeholder="Enter Team Member Name" size="47" required="required" tabindex="1" autofocus="autofocus" />
+		      	<input type="text" id="tm1" name="tm1"  placeholder="Enter Team Member Name" size="47"  tabindex="1" autofocus="autofocus" />
 		      </label> 
 			</div>
 			<div style="padding-left:200px;padding-right:200px;">
@@ -103,18 +103,19 @@
 			<div style="padding-left:200px;padding-right:200px;">
 		      <label for="email">
 		      	<span class="required">Email:*</span>
-		      	<input type="email" id="email" name="email"  placeholder="Your Email" size="57" required="required" tabindex="2"  />
+		      	<input type="email" id="email" name="email"  placeholder="Your Email" size="57"  tabindex="2"  />
 		      </label>
 			  <br>
               <label for="contact no">
 		      	<span class="required">Contact Number:*</span>
-		      	<input type="contact" id="contact" name="contact"  placeholder="Your Contact Number" size="47" required="required" tabindex="2"  />
+		      	<input type="contact" id="contact" name="contact"  placeholder="Your Contact Number" size="47"  tabindex="2"  />
 		      </label> 			  
 			</div>
 			<div>		           
-		        <button name="submit" type="submit" id="submit" >SUBMIT</button> 
+		        <a href="https://www.google.com.pk/"><button name="submit" type="submit" id="submit" >SUBMIT</button></a>         
 			</div>
 			 </form>
          </div>
 	</body>
+	               
 </html>

@@ -203,7 +203,7 @@
                     
                 </div>
 				 <div class="quotes-content text-center">
-                            <a class="scroll-btn btn theme-color" href="http://localhost/idea/addProject.php">Add a Project</a>
+                            <a class="scroll-btn btn theme-color" href="http://localhost/idea/addProjectForm.php">Add a Project</a>
                         </div>
                 
             </div><!--/.container-->
@@ -453,7 +453,7 @@
                      <div class="row wow fadeInUp" data-wow-delay="0.4s">
                     <div class="col-md-8 col-sm-12 col-xs-12">
                           <div class="contact-form">
-                            <form id="contact-form" method="post" action="contact.php" role="form" name="sampleform">
+                            <form id="contact-form" method="post" action="contactFormPhpCode.php" role="form" name="sampleform">
 
                                 <div class="messages"></div>
 
