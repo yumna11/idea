@@ -211,7 +211,7 @@
         <!--=============== END of ADD A PROJECT SECTION =================-->
 
 
-        <!--============ VIEW PROJECT SECTION SECTION ===========-->
+        <!--============ VIEW PROJECT SECTION ===========-->
         <section id="work" class="section-padding">
         <div class="container">
             <div class="row">
@@ -335,6 +335,10 @@
                           </div>
                     </div>
                 </div>  
+
+                <div class="quotes-content text-center">
+                            <a class="scroll-btn btn theme-color" href="http://localhost/idea/addProjectForm.php">Explore Projects</a>
+                        </div>
    
             </div><!--/.row-->
             </div>
