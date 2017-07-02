@@ -17,7 +17,7 @@
 			     <div style="padding-left:200px;padding-right:200px;">
 		             <label for="prjct">rdbbsq
 		      	         <span class="required" >Project Title:*</span> 
-		      	         <input type="text" id="prjct" name="project"  placeholder="Project Title" size="50"required="required" tabindex="1" autofocus="autofocus" />
+		      	         <input type="text" id="prjct" name="project"  placeholder="Project Title" size="50" required="required" tabindex="1" autofocus="autofocus" />
 		             </label> 
 			     </div>
 				 <div>
@@ -108,11 +108,11 @@
 			  <br>
               <label for="contact no">
 		      	<span class="required">Contact Number:*</span>
-		      	<input type="contact" id="contact" name="contact"  placeholder="Your Contact Number" size="47"  tabindex="2"  />
+		      	<input type="Number" id="contact" name="contact"  placeholder="Your Contact Number" size="47"  tabindex="2"  />
 		      </label> 			  
 			</div>
 			<div>		           
-		        <a href="https://www.google.com.pk/"><button name="submit" type="submit" id="submit" >SUBMIT</button></a>         
+		        <button name="submit" type="submit" id="submit" >SUBMIT</button>        
 			</div>
 			 </form>
          </div>
