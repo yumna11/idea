@@ -9,7 +9,9 @@
          <div id="contact-form" style="background-color:#000000; margin:20px 100px 20px 100px;border-radius:10px;">
 		     <div>
 		         <h1 style="color:#FFFFFF;text-align:center;padding-top:10px;">Contact Us</h1> 
-		         <h4 style="color:#FFFFFF;text-align:center;padding-top:10px;">If you are interested in any project just send us an email here.</h4> 
+		         <h4 style="color:#FFFFFF;text-align:center;padding-top:10px;">If you are interested in any project just send us an email here.
+		         <br>We are here to answer any question you may have.</h4>
+		         
 	         </div>
 			 <p id="failure">Oopsie...message not sent.</p>  
 		      <p id="success">Your message was sent successfully. Thank you!</p>
@@ -63,7 +65,7 @@
                                             </div>
                                         </div>
                                         <div >
-                                             <button name="submit" type="submit" id="submit" >SUBMIT</button> 
+                                             <button style = "align-content: center;"name="submit" type="submit" id="submit" >SUBMIT</button> 
 
                                         </div>
                                     </div>
