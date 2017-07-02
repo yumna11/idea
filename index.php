@@ -337,7 +337,7 @@
                 </div>  
 
                 <div class="quotes-content text-center">
-                            <a class="scroll-btn btn theme-color" href="http://localhost/idea/addProjectForm.php">Explore Projects</a>
+                            <a class="scroll-btn btn theme-color" href="viewProjects.html">Explore Projects</a>
                         </div>
    
             </div><!--/.row-->
@@ -359,8 +359,8 @@
                         </div>
                     </div>
                 </div><!--/.row-->
-            </div><!--/.container-->
-        </div> -->
+    <!--         </div>/.container
+        </div> --> -->
         <!--====== END QUOTES AREA =======--> -->
     
     
@@ -437,8 +437,8 @@
                         </div>
                     </div>
                 </div> <!-- / row -->
-                </div>
-            </div> -->
+             <!--    </div>
+            </div> --> -->
         <!--============== END TESTIMONIAL SECTION ===============--> -->
 
 
