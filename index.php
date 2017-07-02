@@ -219,11 +219,25 @@
                       <div class="section-title">
                            <h2>VIEW PROJECTS</h2>
                            <p>Here are some projects related to various fields.</p>
+                           <p>Looking for any project idea?
+                       <br>Get in touch to get the ball rolling.
+                       Have a look at details of all the projects on which the students have worked up till now. <br>Get an idea of huge variety of project ideas.
+                        The projects will be categorized according to the departments.
+                       </p>
                        </div>
                     </div>
                 </div>
+
+                  <div class="quotes-content text-center">
+                            <a class="scroll-btn btn theme-color" href="viewProjects.html">Explore Projects</a>
+                        </div>
+   
+            </div><!--/.row-->
+            </div>
+        </div><!--/.container-->
+    </section>
                 
-                <div class="row">
+                <!-- <div class="row">
                 <ul class="work">
                     <li class="filter theme-color active" data-filter="all">all</li>
                     <li class="filter theme-color" data-filter=".webdesign">web design</li>
@@ -334,16 +348,9 @@
                             </div>
                           </div>
                     </div>
-                </div>  
+                </div>   -->
 
-                <div class="quotes-content text-center">
-                            <a class="scroll-btn btn theme-color" href="viewProjects.html">Explore Projects</a>
-                        </div>
-   
-            </div><!--/.row-->
-            </div>
-        </div><!--/.container-->
-    </section>
+              
     <!--============== END PORTFOLIO SECTION ===================-->
     
     
