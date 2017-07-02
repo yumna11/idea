@@ -441,7 +441,7 @@
          <!--================ CONTACT INFO SECTION =================-->
         <section id="contact" class="contact-info-section section-padding">
             <div class="container">
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                       <div class="section-title">
                        <h2>CONTACT US</h2>
@@ -451,67 +451,20 @@
                        <br>Please give a couple of business days for me to respond.</p>
                        </div>
                     </div>
-                </div>
+                </div> -->
               
                      <div class="row wow fadeInUp" data-wow-delay="0.4s">
                     <div class="col-md-8 col-sm-12 col-xs-12">
                           <div class="contact-form">
-                            <form id="contact-form" method="post" action="contactFormPhpCode.php" role="form" name="sampleform">
-
-                                <div class="messages"></div>
-
-                                <div class="controls">
-
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="form-group">
-                                                <input id="form_name" type="text" name="name" class="form-control" placeholder="Name*"  data-error="Name is required.">
-                                                <div class="help-block with-errors"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="form-group">
-                                                <input id="form_dept" type="text" name="department" class="form-control" placeholder="Department*"  data-error="Department is required.">
-                                                <div class="help-block with-errors"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="form-group">
-                                                <input id="form_number" type="text" name="number" class="form-control" placeholder="Contact Number" >
-                                                <div class="help-block with-errors"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="form-group">
-                                                <input id="form_email" type="email" name="email" class="form-control" placeholder="Email" >
-                                                <div class="help-block with-errors"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="form-group">
-                                                <textarea id="form_message" name="message" class="form-control" placeholder="Message*" rows="4" required="required" data-error="Please,leave us a message."></textarea>
-                                                <div class="help-block with-errors"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <input type="submit" name = "submit" class="btn btn-effect theme-color btn-send" value="Send message"
-                                            >
-
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </form>
-
+                            
+                        <h2>CONTACT US</h2>
+                       <p>Interested in any project?
+                       <br>Get in touch to get the ball rolling.
+                       <br>Fill out the contact form below with some information about yourself.
+                       <br>Please give a couple of business days for me to respond.</p>
+                       <div class="quotes-content text-center">
+                            <a class="scroll-btn btn theme-color" href="http://localhost/idea/contactForm.php">CONTACT US</a>
+                        </div>
                           </div>
                      </div>
                     
