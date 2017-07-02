@@ -343,8 +343,8 @@
     <!--============== END PORTFOLIO SECTION ===================-->
     
     
-     <!--====== QUOTES AREA =====-->
-        <div class="quotes-area section-padding">
+     <!-- <!--====== QUOTES AREA =====-->
+       <!--  <div class="quotes-area section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -356,12 +356,12 @@
                     </div>
                 </div><!--/.row-->
             </div><!--/.container-->
-        </div>
-        <!--====== END QUOTES AREA =======-->
+        </div> -->
+        <!--====== END QUOTES AREA =======--> -->
     
     
-    <!--================== TESTIMONIAL SECTION ====================-->
-        <div id="testimonial" class="testimonial-section section-padding">
+    <!-- <!--================== TESTIMONIAL SECTION ====================-->
+       <!--  <div id="testimonial" class="testimonial-section section-padding">
             <div class="container">
                <div class="row">
                    <div class="col-md-12 text-center">
@@ -434,8 +434,8 @@
                     </div>
                 </div> <!-- / row -->
                 </div>
-            </div>
-        <!--============== END TESTIMONIAL SECTION ===============-->
+            </div> -->
+        <!--============== END TESTIMONIAL SECTION ===============--> -->
 
 
          <!--================ CONTACT INFO SECTION =================-->
