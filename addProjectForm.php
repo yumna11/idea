@@ -10,12 +10,13 @@
 		     <div>
 		         <h1 style="color:#FFFFFF;text-align:center;padding-top:10px;">Add your Project!</h1> 
 		         <h4 style="color:#FFFFFF;text-align:center;padding-top:10px;">Share your project ideas with others.Showcase your innovation.</h4> 
+
 	         </div>
 			 <p id="failure">Oopsie...message not sent.</p>  
 		      <p id="success">Your message was sent successfully. Thank you!</p>
 	         <form action="addProjectPhpCode.php" method="post">
 			     <div style="padding-left:200px;padding-right:200px;">
-		             <label for="prjct">rdbbsq
+		             <label for="prjct">
 		      	         <span class="required" >Project Title:*</span> 
 		      	         <input type="text" id="prjct" name="project"  placeholder="Project Title" size="50" required="required" tabindex="1" autofocus="autofocus" />
 		             </label> 

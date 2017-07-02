@@ -445,7 +445,10 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                       <div class="section-title">
                        <h2>CONTACT US</h2>
-                       <p>If you are interested in any project just send us an email here</p>
+                       <p>Interested in any project?
+                       <br>Get in touch to get the ball rolling.
+                       <br>Fill out the contact form below with some information about yourself.
+                       <br>Please give a couple of business days for me to respond.</p>
                        </div>
                     </div>
                 </div>
