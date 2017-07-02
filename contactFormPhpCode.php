@@ -15,7 +15,7 @@ if (!$success) {
 
 
 function writeMsg() {
-    include("thankyou.html");
+    include("contactThanksPage.html");
 }
 
 writeMsg(); // call the function

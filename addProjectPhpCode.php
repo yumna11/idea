@@ -23,7 +23,7 @@ if (!$success) {
 }
 
 function writeMsg() {
-    include("thankyou.html");
+    include("addProjectThanksPage.html");
 }
 
 writeMsg(); // call the function
