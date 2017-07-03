@@ -13,8 +13,7 @@
 		         <br>We are here to answer any question you may have.</h4>
 		         
 	         </div>
-			 <p id="failure">Oopsie...message not sent.</p>  
-		      <p id="success">Your message was sent successfully. Thank you!</p>
+			 
 	         <div class="row wow fadeInUp" data-wow-delay="0.4s">
                     <div class="col-md-8 col-sm-12 col-xs-12">
                           <div class="contact-form">
