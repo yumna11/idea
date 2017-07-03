@@ -39,7 +39,8 @@ h4
 }
 #contact-form .required {  
    font-weight:bold;  
-   color: #FFFFFF;      
+   color: #FFFFFF;  
+   width: 100%    
 }
 
 #contact-form input,   
